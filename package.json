@@ -1,0 +1,6 @@
+mkdir semana4
+cd semana4
+
+npm init -y
+
+npm install express
